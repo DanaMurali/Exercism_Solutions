@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LasagnaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-11-03T14:20:20" hostname="Daranias-Air" time="0.103">
+  <properties/>
+  <testcase name="total_time_in_minutes_for_multiple_layers" classname="LasagnaTest" time="0.097"/>
+  <testcase name="total_time_in_minutes_for_one_layer" classname="LasagnaTest" time="0.0"/>
+  <testcase name="remaining_minutes_in_oven" classname="LasagnaTest" time="0.001"/>
+  <testcase name="preparation_time_in_minutes_for_one_layer" classname="LasagnaTest" time="0.0"/>
+  <testcase name="expected_minutes_in_oven" classname="LasagnaTest" time="0.0"/>
+  <testcase name="preparation_time_in_minutes_for_multiple_layers" classname="LasagnaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
